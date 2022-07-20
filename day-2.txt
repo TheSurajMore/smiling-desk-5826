@@ -1,0 +1,18 @@
+1] Issue Closed = Start the project.
+     * Following are tasks completed.
+     1) Check/observe the created repository.
+     2) Understand the created repository.
+     3) Understand branches in the repository.
+     4) Create 4 branchase.
+     5) Check 4 branchase.
+
+
+
+2] Issue Closed = Revise some concepts.
+     * Following are tasks completed.
+     1) CSS box, Flex.
+     2) Grid.
+     3) Media query.
+     4) Dom
+     5) Advance CSS.
+	
